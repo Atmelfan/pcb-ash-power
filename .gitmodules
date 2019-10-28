@@ -1,0 +1,3 @@
+[submodule "altium_stdlib"]
+	path = altium_stdlib
+	url = https://github.com/Atmelfan/altium_stdlib.git
