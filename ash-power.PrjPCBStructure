@@ -1,2 +1,5 @@
 Record=TopLevelDocument|FileName=power.SchDoc
-Record=SheetSymbol|SourceDocument=power.SchDoc|Designator=CHG1|SchDesignator=CHG1|FileName=charger.SchDoc|SymbolType=Normal|RawFileName=charger.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=power.SchDoc|Designator=LHS|SchDesignator=LHS|FileName=hs_switch.SchDoc|SymbolType=Normal|RawFileName=hs_switch.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=power.SchDoc|Designator=RCHG|SchDesignator=RCHG|FileName=charger.SchDoc|SymbolType=Normal|RawFileName=charger.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=power.SchDoc|Designator=RCHG|SchDesignator=RCHG|FileName=charger.SchDoc|SymbolType=Normal|RawFileName=charger.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=power.SchDoc|Designator=RHS|SchDesignator=RHS|FileName=hs_switch.SchDoc|SymbolType=Normal|RawFileName=hs_switch.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
