@@ -9,5 +9,9 @@ The power board has the following responsibilites:
 * Provide soft-start functionality for servos.
 * Control power on/off to servos.
 * Protect batteries with UVLO and OVLO.
-* Integrated charger using external USB-C supply.
+~~* Integrated charger using external USB-C supply.~~
 * Provide an interface for both main board MCU(I2C) and NVM(serial-SCPI).
+
+(https://htmlpreview.github.io/?https://github.com/Atmelfan/pcb-ash-power/blob/master/schematic.PDF)[Schematic]
+(https://htmlpreview.github.io/?https://github.com/Atmelfan/pcb-ash-power/blob/master/assembly.PDF)[Assembly diagram]
+(https://htmlpreview.github.io/?https://github.com/Atmelfan/pcb-ash-power/blob/master/bom.html)[Bill of material]
