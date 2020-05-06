@@ -12,8 +12,8 @@ The power board has the following responsibilites:
 ~~* Integrated charger using external USB-C supply.~~
 * Provide an interface for both main board MCU(I2C) and NVM(serial-SCPI).
 
-[Schematic](https://htmlpreview.github.io/?https://github.com/Atmelfan/pcb-ash-power/blob/master/schematic.PDF)
+[Schematic](https://github.com/Atmelfan/pcb-ash-power/raw/master/schematic.PDF)
 
-[Assembly diagram](https://htmlpreview.github.io/?https://github.com/Atmelfan/pcb-ash-power/blob/master/assembly.PDF)
+[Assembly diagram](https://github.com/Atmelfan/pcb-ash-power/raw/master/assembly.PDF)
 
 [Bill of material](https://htmlpreview.github.io/?https://github.com/Atmelfan/pcb-ash-power/blob/master/bom.html)
