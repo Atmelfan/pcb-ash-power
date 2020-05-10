@@ -1,4 +1,4 @@
-[Design]
+﻿[Design]
 Version=1.0
 HierarchyMode=0
 ChannelRoomNamingStyle=0
@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for ash-power
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -490,7 +490,7 @@ AnnotateOrder=10
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -734,6 +734,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document42]
+DocumentPath=aisler.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=9CE35763-2161-4896-8D99-217E483D4F44
 Description=Default
@@ -805,21 +822,25 @@ ParamDesignator12=U2802
 Variation39=Designator=C8|UniqueId=\UNFYJWGH\NASVLANL\ILAUTSXK|Kind=1|AlternatePart= 
 ParamVariationCount=12
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ash-power\Design Rule Check - pcb-ash-power.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=project_author
-Value=Gustav Palmqvist
+Name=project_revision
+Value=1
 
 [Parameter2]
-Name=project_name
-Value=ASH Power
-
-[Parameter3]
 Name=project_repo
 Value=https://github.com/Atmelfan/pcb-ash-power.git
 
+[Parameter3]
+Name=project_name
+Value=ASH Power
+
 [Parameter4]
-Name=project_revision
-Value=1
+Name=project_author
+Value=Gustav Palmqvist
 
 [Configuration1]
 Name=Sources
@@ -832,7 +853,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for ash-power
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
